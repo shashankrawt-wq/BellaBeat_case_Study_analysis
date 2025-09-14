@@ -13,7 +13,7 @@ The goal is to analyze smart device fitness data to gain insights into consumer 
 - **Python (Jupyter Notebook)** – Data cleaning & analysis  
 - **Pandas, NumPy** – Data wrangling  
 - **Matplotlib, Seaborn** – Data visualization  
-- **Power BI** – Dashboard & reporting (optional)  
+
 
 ## Key Insights  
 - Users with higher activity levels tend to have better sleep quality  
