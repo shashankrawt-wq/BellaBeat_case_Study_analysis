@@ -16,7 +16,7 @@ The goal is to analyze smart device fitness data to gain insights into consumer 
 ---
 
 ## Dataset
-- **Source:** Fitbit Fitness Tracker Data on Kaggle  
+- **Source:** [Fitbit Fitness Tracker Data on Kaggle](https://www.kaggle.com/datasets/arashnic/fitbit)
 - **Size:** Data from 33 users, tracking daily activity, sleep, heart rate, and steps  
 - **Period:** 2016-04-12	to 2016-05-12 
 
